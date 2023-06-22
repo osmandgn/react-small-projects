@@ -1,0 +1,20 @@
+.product-card{
+    text-align: center;
+    
+    .stars{
+        color: green;
+    }
+
+    .price{
+        font-size: 1.2rem;
+        font-weight: 600;
+        color: green;
+    }
+
+    .oldPrice{
+        color: gray;
+        text-decoration: line-through;
+        font-weight: 500;
+        margin-right: 5px;
+    }
+}
